@@ -12,7 +12,7 @@ print(n1 - n2)
 #subtraction
  
 print("{} - {} = ".format(n1, n2))
-print(n1 - n2)
+print(n1 - n2 -n3)
  
 #multiplication
  

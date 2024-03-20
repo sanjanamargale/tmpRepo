@@ -3,11 +3,13 @@
  
 #Promting input from the user
  
- 
+
 #addition
  
 print("{} + {} = ".format(n1, n2))
 print(n1 - n2)
+
+
  
 #subtraction
  
@@ -23,3 +25,6 @@ print(n1 * n2)
  
 print("{} / {} = ".format(n1, n2))
 print(n1 / n2)
+
+def tmpFunc():
+  print("Check!!!!") 
